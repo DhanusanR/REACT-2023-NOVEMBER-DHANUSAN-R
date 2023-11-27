@@ -1,0 +1,49 @@
+.App {
+  text-align: left;
+}
+.login{
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEXt7txJ2D60AAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=');
+   background-repeat: no-repeat; 
+  background-position:50%;
+  text-align: center;
+}
+body{
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEXt7txJ2D60AAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=');
+   background-repeat: no-repeat;
+  background: size 50%; 
+  background-size: cover;
+  text-align: centre;
+}
+.b{
+  text-align: center;
+}
+h1{
+  text-align: center;
+  color: rgb(165, 21, 187)75, 196, 196;
+}
+
+.App-logo {
+  text-align: center;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-link {
+  text-align: left;
+  color: #9c27b0;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
